@@ -1,1 +1,4 @@
-# This is my portfolio
+
+# Deployed Link
+
+ https://7askarbekov.github.io/
